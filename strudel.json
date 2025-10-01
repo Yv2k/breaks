@@ -2,5 +2,13 @@
   "_base": "https://raw.githubusercontent.com/Yv2k/breaks/main/",
   "breaks": [
     "break1.wav"
+  ],
+  "drumloops" : [
+    "drumloop1.wav",
+    "drumloop2.wav",
+    "drumloop3.wav",
+    "drumloop4.wav",
+    "drumloop5.wav",
+    "drumloop6.wav"
   ]
 }
