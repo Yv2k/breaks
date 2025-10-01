@@ -1,4 +1,6 @@
 {
-"_base": "https://github.com/Yv2k/breaks",
- "breaks1": "break1.wav"
+  "_base": "https://raw.githubusercontent.com/Yv2k/breaks/main/",
+  "breaks": [
+    "break1.wav"
+  ]
 }
